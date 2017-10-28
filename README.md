@@ -1,9 +1,9 @@
 # Keenlos Team
 
-> [Site](http://keenlos.ueuo.com) | 
-> [GitHub](https://github.com/Keenlos) | 
+> [Site](http://keenlos.ueuo.com) > 
+> [GitHub](https://github.com/Keenlos) > 
 > [YouTube](https://www.youtube.com/channel/UCtCEhGtp5G5HMD4ONLtFjgg)
-_____________________________________
+
 ## Description:
 
 Keenlos Team is team, created by Bodya and Artem for these purposes:
@@ -11,9 +11,9 @@ Keenlos Team is team, created by Bodya and Artem for these purposes:
 * Multimedia (Video, Music)
 * Graphics (Photoshop, Illustrator)
 * Hacking (Reverse Engineering)
-_____________________________________
+
 ### Date of creation: 26.08.2016
-_____________________________________
+
 ## Members:
 
 * Bodya – Team Creator
