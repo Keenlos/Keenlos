@@ -1,6 +1,6 @@
 # Keenlos Team
 
-### Date of creation: 26.08.2016
+> ### Date of creation: 26.08.2016
 
 ## Description
 
@@ -23,6 +23,6 @@ Keenlos Team is team, created by Bodya and Artem for these purposes:
 
 ## Links
 
-> [Site](http://keenlos.ueuo.com) \ 
-> [GitHub](https://github.com/Keenlos) \ 
-> [YouTube](https://www.youtube.com/channel/UCtCEhGtp5G5HMD4ONLtFjgg)
+[Site](http://keenlos.ueuo.com) \ 
+[GitHub](https://github.com/Keenlos) \ 
+[YouTube](https://www.youtube.com/channel/UCtCEhGtp5G5HMD4ONLtFjgg)
