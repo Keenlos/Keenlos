@@ -5,10 +5,11 @@
 ## Description
 
 Keenlos Team is team, created by Bodya and Artem for these purposes:
-* Programming (C/C++, Assembler, C#, PHP, JavaScript, Java)
-* Multimedia (Video, Music)
-* Graphics (Photoshop, Illustrator)
-* Hacking (Reverse Engineering)
+* Programming
+* Multimedia
+* Graphics
+* Hacking
+* Pro Gaming
 
 ## Members
 
@@ -23,6 +24,6 @@ Keenlos Team is team, created by Bodya and Artem for these purposes:
 
 ## Links
 
-[Site](http://keenlos.ueuo.com) \ 
-[GitHub](https://github.com/Keenlos) \ 
+[Site](http://keenlos.ueuo.com) / 
+[GitHub](https://github.com/Keenlos) / 
 [YouTube](https://www.youtube.com/channel/UCtCEhGtp5G5HMD4ONLtFjgg)
