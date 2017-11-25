@@ -26,4 +26,5 @@ Keenlos Team is team, created by Bodya and Artem for these purposes:
 
 [Site](http://keenlos.ueuo.com) / 
 [GitHub](https://github.com/Keenlos) / 
+[Newgrounds](https://keenlos.newgrounds.com) / 
 [YouTube](https://www.youtube.com/channel/UCtCEhGtp5G5HMD4ONLtFjgg)
