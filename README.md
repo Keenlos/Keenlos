@@ -8,7 +8,7 @@ Keenlos Team is team, created by Bodya and Artem for these purposes:
 * Programming
 * Multimedia
 * Graphics
-* Hacking
+* Reverse Engineering
 * Gaming
 
 ## Members
