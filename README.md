@@ -18,9 +18,10 @@ Keenlos Team is team, created by Bodya and Artem for these purposes:
 * Roven – Moderator
 * AndxArtZ – Soft Developer
 * Ruppet – Web Designer
-* Xavier – Music Creator
+* DJCyberTron – Music Creator
 * The Fox – Designer
 * Venom Vortex - Animator
+* ArtMuxomor – Designer
 
 ## Links
 
