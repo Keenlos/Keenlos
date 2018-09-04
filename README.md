@@ -13,7 +13,7 @@ Keenlos Team is team, created by Bodya and Artem for these purposes:
 
 ## Members
 
-* 1finity – Team Creator
+* 1nfinity – Team Creator
 * Artem – Team Creator
 * Roven – Moderator
 * AndxArtZ – Soft Developer
