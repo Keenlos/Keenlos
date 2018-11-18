@@ -4,7 +4,7 @@
 
 ## Description
 
-Keenlos Team is team, created by Bodya and Artem for these purposes:
+Keenlos Team is team, created by 1nfinity and Artem for these purposes:
 * Programming
 * Multimedia
 * Graphics
@@ -19,8 +19,8 @@ Keenlos Team is team, created by Bodya and Artem for these purposes:
 * AndxArtZ – Soft Developer
 * Ruppet – Web Designer
 * DJCyberTron – Music Creator
-* The Fox – Designer
-* Venom Vortex - Animator
+* TheFox – Designer
+* VenomVortex - Animator
 * ArtMuxomor – Designer
 
 ## Links
