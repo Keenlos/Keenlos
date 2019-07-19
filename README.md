@@ -1,6 +1,6 @@
 # Keenlos Team
 
-> ### Date of creation: 26.08.2016
+> ### Date of creation: 26 August 2016
 
 ## Description
 
