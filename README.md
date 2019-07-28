@@ -23,7 +23,7 @@ Keenlos Team is team, created by 1nfinity and Artem for these purposes:
 * Venom Vortex - Animator, Translator
 * ArtMuxomor - Designer
 * bit0r1n - Site Manager
-* macdj - Games Developer, Software Developer
+* macdj - Game Developer, Software Developer
 
 ## Links
 
