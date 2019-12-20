@@ -28,6 +28,7 @@ Keenlos Team is team, created by 1nfinity and Artem for these purposes:
 ## Links
 
 [Site](https://keenlos.xyz) / 
+[Forum](https://forum.keenlos.xyz) / 
 [GitHub](https://github.com/Keenlos) / 
 [Newgrounds](https://keenlos.newgrounds.com) / 
 [YouTube](https://www.youtube.com/channel/UCtCEhGtp5G5HMD4ONLtFjgg)
