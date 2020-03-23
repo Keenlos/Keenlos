@@ -27,8 +27,7 @@ Keenlos Team is team, created by 1nfinitE and kenjutsu for these purposes:
 
 ## Links
 
-[Site](https://keenlos.xyz) / 
-[Forum](https://forum.keenlos.xyz) / 
+[Site](https://keenlos.xyz) /  
 [GitHub](https://github.com/Keenlos) / 
 [Newgrounds](https://keenlos.newgrounds.com) / 
 [YouTube](https://www.youtube.com/channel/UCtCEhGtp5G5HMD4ONLtFjgg)
