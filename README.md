@@ -4,7 +4,7 @@
 
 ## Description
 
-Keenlos Team is team, created by 1nfinitE and kenjutsu for these purposes:
+Keenlos Team is team, created by 1nfinit and kenjutsu for these purposes:
 * Programming
 * Multimedia
 * Graphics
@@ -13,7 +13,7 @@ Keenlos Team is team, created by 1nfinitE and kenjutsu for these purposes:
 
 ## Members
 
-* 1nfinitE - Team Creator
+* 1nfinit - Team Creator
 * kenjutsu - Team Creator
 * Roven - Moderator
 * AndxArtZ - Software Developer
